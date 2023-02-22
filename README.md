@@ -19,15 +19,15 @@
 
 - **USECASE**
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled.png)
+![Untitled](assets/Untitled.png)
 
 - **ERD**
 
-![erd.PNG](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/erd.png)
+![erd.PNG](assets/erd.png)
 
 - **기술 스택**
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%201.png)
+![Untitled](assets/Untitled%201.png)
 
 ## 기능 설명
 
@@ -40,47 +40,47 @@
 - 구매를 위해 판매자와의 채팅을 통한 직거래 가능
 - 본인이 거래한 내용을 한 눈에 확인 가능
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%202.png)
+![Untitled](assets/Untitled%202.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%203.png)
+![Untitled](assets/Untitled%203.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%204.png)
+![Untitled](assets/Untitled%204.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%205.png)
+![Untitled](assets/Untitled%205.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%206.png)
+![Untitled](assets/Untitled%206.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%207.png)
+![Untitled](assets/Untitled%207.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%208.png)
+![Untitled](assets/Untitled%208.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%209.png)
+![Untitled](assets/Untitled%209.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2010.png)
+![Untitled](assets/Untitled%2010.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2011.png)
+![Untitled](assets/Untitled%2011.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2012.png)
+![Untitled](assets/Untitled%2012.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2013.png)
+![Untitled](assets/Untitled%2013.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2014.png)
+![Untitled](assets/Untitled%2014.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2015.png)
+![Untitled](assets/Untitled%2015.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2016.png)
+![Untitled](assets/Untitled%2016.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2017.png)
+![Untitled](assets/Untitled%2017.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2018.png)
+![Untitled](assets/Untitled%2018.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2019.png)
+![Untitled](assets/Untitled%2019.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2020.png)
+![Untitled](assets/Untitled%2020.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2021.png)
+![Untitled](assets/Untitled%2021.png)
 
-![Untitled](dongogong%20readme%20315fe8b8f60d4ed39df2a6b321a4f4d0/Untitled%2022.png)
+![Untitled](assets/Untitled%2022.png)
 
 ## 팀원 소개
 
